@@ -2,7 +2,7 @@
 
 Combines [Incus](https://linuxcontainers.org/incus/docs/main/) documentation from [its git repo](https://github.com/lxc/incus) in a single file ready for AI consumption.
 
-The combined file is [incus-git-doc.txt](./incus-git-doc.txt).
+The combined file is [incus-doc-git.txt](./incus-doc-git.txt).
 
 ## Introduction
 
@@ -22,7 +22,7 @@ Incus allows you to easily set up a system that feels like a small private cloud
 ## Purpose of this repo
 
 - To contain a cleaned copy of [the documentation of incus found in its git repo](https://github.com/lxc/incus/tree/main/doc) in the [/doc](./doc) folder
-- To contain a [file combining the documentation](./incus-git-doc.txt) for AI consumption.
+- To contain a [single file combining the documentation](./incus-doc-git.txt) for AI consumption.
 
 ## Official sources of documentation
 - [Incus - Documentation (on linuxcontainers)](https://linuxcontainers.org/incus/doc/main)

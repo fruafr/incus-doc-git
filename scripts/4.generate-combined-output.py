@@ -9,7 +9,7 @@ import datetime
 
 # Define the input and output file paths
 input_dir = '../doc/'  # current directory
-output_file = '../incus-git-doc.txt'
+output_file = '../incus-doc-git.txt'
 
 # Define the extensions to consider
 extensions = ['.md', '.txt', '.yaml']
